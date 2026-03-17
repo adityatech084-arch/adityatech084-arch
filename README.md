@@ -3,8 +3,9 @@ Hi 👋 I'm Aditya Zade
 🚀 Full-Stack MERN Developer
 I am a passionate Full-Stack Developer who enjoys building modern, scalable, and user-friendly web applications. I specialize in the MERN Stack (MongoDB, Express.js, React.js, Node.js) and focus on creating responsive interfaces and efficient backend systems.
 
-###I love turning ideas into real-world products by writing clean, maintainable code and building applications that are fast, scalable, and easy to use.
+I love turning ideas into real-world products by writing clean, maintainable code and building applications that are fast, scalable, and easy to use.
 I am in a continuous learning phase, exploring new technologies, improving my development skills, and building projects to gain deeper experience in full-stack development.
+
 ---
 
 🚀 Tech Stack 🎨 Frontend
@@ -19,6 +20,7 @@ REST API Development
 🗄️ Database
 MongoDB ,Mongoose
 SQL 
+
 ---
 
 🛠️ Tools & Technologies
