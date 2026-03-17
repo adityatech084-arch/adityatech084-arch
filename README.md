@@ -5,7 +5,7 @@ I am a passionate Full-Stack Developer who enjoys building modern, scalable, and
 
 I love turning ideas into real-world products by writing clean, maintainable code and building applications that are fast, scalable, and easy to use.
 I am in a continuous learning phase, exploring new technologies, improving my development skills, and building projects to gain deeper experience in full-stack development.
-______________________________________________________________________________________________________________________________________________________________________________________________________________________________
+---
 
 🚀 Tech Stack 🎨 Frontend
 
@@ -19,7 +19,7 @@ REST API Development
 🗄️ Database
 MongoDB ,Mongoose
 SQL 
-______________________________________________________________________________________________________________________________________________________________________________________________________________________________
+---
 
 🛠️ Tools & Technologies
 Git , GitHub
